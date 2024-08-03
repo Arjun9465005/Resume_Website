@@ -385,7 +385,7 @@
             <li><a href="https://instagram.com/arjun_singh9465" target="_blank"><i class="fab fa-instagram"></i></a></li>
             <li><a href="https://github.com/Arjun9465005" target="_blank"><i class="fab fa-github"></i></a></li>
             <li><a href="https://www.linkedin.com/in/arjun-singh-547701215" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="C:\Users\Admin\OneDrive\Desktop\arjun\Resume\arjun's resume1.pdf" download><i class="fas fa-download"></i> Download Resume</a></li>
+            <li><a href="C:\Users\Admin\OneDrive\Desktop\my W_project\Resume Website\arjun's resume1.pdf" download><i class="fas fa-download"></i> Download Resume</a></li>
         </ul>
     </div>
             <p>&copy; 2024 Arjun Singh. All rights reserved.</p>
